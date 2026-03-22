@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Nová verze 1.2",
+    "text": "Přidali jsme novou sekci novinek a opravili bugy.",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Údržba serveru",
+    "text": "Server bude mimo provoz od 2:00 do 4:00.",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Spuštění launcheru",
+    "text": "Launcher byl oficiálně vydán!",
+    "date": "2026-03-15"
+  }
+]
