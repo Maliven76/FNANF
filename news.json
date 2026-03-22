@@ -1,17 +1,20 @@
 [
   {
-    "title": "Nová verze 1.2",
-    "text": "Přidali jsme novou sekci novinek a opravili bugy.",
-    "date": "2026-03-20"
+    "title": "Launcher vydán",
+    "date": "2026-03-22",
+    "text": "Oficiální verze launcheru byla spuštěna.",
+    "type": "info"
   },
   {
-    "title": "Údržba serveru",
-    "text": "Server bude mimo provoz od 2:00 do 4:00.",
-    "date": "2026-03-18"
+    "title": "Nová verze 1.0.1",
+    "date": "2026-03-21",
+    "text": "Opraveny chyby a vylepšen výkon.",
+    "type": "update"
   },
   {
-    "title": "Spuštění launcheru",
-    "text": "Launcher byl oficiálně vydán!",
-    "date": "2026-03-15"
+    "title": "Nový obsah",
+    "date": "2026-03-20",
+    "text": "Přidány nové hry do launcheru.",
+    "type": "feature"
   }
 ]
